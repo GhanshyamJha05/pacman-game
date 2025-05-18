@@ -56,6 +56,7 @@ HTML5 Canvas – Game rendering
 Vanilla JavaScript – Logic and controls
 
 CSS – Basic styling
+
 ---
 🚀 Future Improvements
 Add power pellets to let Pacman eat ghosts
@@ -67,9 +68,12 @@ Add sound effects and music
 Create multiple maze layouts
 
 Implement high score saving
+
 ---
 🤝 Contributing
+
 Contributions are welcome!
 Please fork the repository and submit a pull request with your improvements.
+
 ---
 
