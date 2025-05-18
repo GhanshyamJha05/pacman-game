@@ -6,11 +6,6 @@
 
 A classic **Pacman** game built using **HTML5 Canvas** and **vanilla JavaScript**. This project replicates the traditional arcade experience, featuring ghost AI, smooth movement, scoring, and a lives system.
 
-## 🔗 Live Demo
-
-👉 [Play Pacman Game Live](https://ghanshyamjha05.github.io/pacman-game/)  
-
----
 
 ## ✨ Features
 
