@@ -8,7 +8,7 @@ A classic **Pacman** game built using **HTML5 Canvas** and **vanilla JavaScript*
 
 ## 🔗 Live Demo
 
-👉 [Play Pacman Game Live](https://your-github-username.github.io/pacman-js/)  
+👉 [Play Pacman Game Live](https://ghanshyamjha05.github.io/pacman-game/)  
 
 ---
 
