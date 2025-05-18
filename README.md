@@ -1,6 +1,6 @@
 # 🟡 Pacman Game – JavaScript Implementation
 
-![Pacman Screenshot](https://your-image-url.com/screenshot.png) <!-- Replace with your actual screenshot URL -->
+![Pacman Screenshot](![image](https://github.com/user-attachments/assets/fa03563c-9e15-4ea1-b3a3-9ec8ab780291) <!-- Replace with your actual screenshot URL -->
 
 ## 🎮 Description
 
@@ -9,7 +9,6 @@ A classic **Pacman** game built using **HTML5 Canvas** and **vanilla JavaScript*
 ## 🔗 Live Demo
 
 👉 [Play Pacman Game Live](https://your-github-username.github.io/pacman-js/)  
-*Note: Replace the URL with your actual GitHub Pages link after deployment.*
 
 ---
 
