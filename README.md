@@ -50,7 +50,9 @@ pacman-js/
 ```
 
 ---
-##🧰 Technologies Used
+
+## 🧰 Technologies Used
+
 HTML5 Canvas – Game rendering
 
 Vanilla JavaScript – Logic and controls
@@ -58,7 +60,9 @@ Vanilla JavaScript – Logic and controls
 CSS – Basic styling
 
 ---
-##🚀 Future Improvements
+
+## 🚀 Future Improvements
+
 Add power pellets to let Pacman eat ghosts
 
 Introduce fruit bonuses for extra points
@@ -70,7 +74,7 @@ Create multiple maze layouts
 Implement high score saving
 
 ---
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 Please fork the repository and submit a pull request with your improvements.
