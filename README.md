@@ -1,6 +1,6 @@
 # 🟡 Pacman Game – JavaScript Implementation
 
-(![image](https://github.com/user-attachments/assets/fa03563c-9e15-4ea1-b3a3-9ec8ab780291) <!-- Replace with your actual screenshot URL -->
+![image](https://github.com/user-attachments/assets/fa03563c-9e15-4ea1-b3a3-9ec8ab780291) <!-- Replace with your actual screenshot URL -->
 
 ## 🎮 Description
 
